@@ -1,0 +1,8 @@
+
+.social_media_ul li{
+    padding: 10px;
+    list-style-type: none;
+    float: left;
+    margin: 5px;
+    color: white;
+}

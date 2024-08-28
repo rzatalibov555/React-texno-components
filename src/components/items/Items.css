@@ -1,0 +1,45 @@
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 20px;
+    max-width: 300px;
+  }
+  
+  .card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-content {
+    padding: 20px;
+  }
+  
+  .card-date {
+    color: #757575;
+    margin-bottom: 5px;
+  }
+  
+  .card-title {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .card-tags {
+    color: #007BFF;
+    margin-bottom: 15px;
+  }
+  
+  .card-description {
+    font-size: 1em;
+    margin-bottom: 20px;
+  }
+  
+  .event-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #333;
+    padding: 40px;
+  }
+  
